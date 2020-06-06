@@ -120,8 +120,8 @@ Production에서 발생한 버그들은 전부 여기에서 수정합니다.
 
 ### 출처
 
-[우아한 형제들 기술블로그]
+[우아한 형제들 기술블로그]  
 https://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html
 
-[잘 밤에 쓸데없는 생각하기... 블로그]
+[잘 밤에 쓸데없는 생각하기... 블로그]  
 https://ujuc.github.io/2015/12/16/git-flow-github-flow-gitlab-flow/
